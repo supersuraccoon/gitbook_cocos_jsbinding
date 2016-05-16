@@ -1,2 +1,0 @@
-# Cocos JSBinding
-___
