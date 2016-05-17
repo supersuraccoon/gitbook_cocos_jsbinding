@@ -3,12 +3,12 @@
 これは `SpiderMonkey` && `Cocos2d-JS v3.10`　の勉強メモです(専門語が多すぎのために通訳まではしていません)
 
 内容について:
-- SpiderMonkey Fundamentals
+- SpiderMonkey 基礎
 - SpiderMonkey JSAPI
-- SpiderMonkey JSAPI Code Snippets
-- SpiderMonkey Garbage Collection
+- SpiderMonkey JSAPI コードスニペット
+- SpiderMonkey ガベージコレクション
 - SpiderMonkey Rooting API
-- COCOS JSAPI Encapsulation
-- COCOS JSBinding Object Storage
-- COCOS JSBinding Workflow
-- COCOS JSBinding Code Snippets
+- COCOS JSAPI カプセル化
+- COCOS JSBinding 対象ストレージ
+- COCOS JSBinding ワークフロー 
+- COCOS JSBinding コードスニペット
